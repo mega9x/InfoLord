@@ -1,0 +1,14 @@
+[基本信息]
+全名: Karen Hernandez
+性别: Female
+地址: 470 Walsh Rest
+Smithview, NJ 19249
+生日: 1932-08-09
+电话: 2465524826
+昵称: stephaniewest
+SSN: 394-78-6208
+[付款信息]
+银行卡类型: VISA
+银行卡号: 4626701240181502
+过期时间: 08/2023
+CVV: 691

@@ -1,0 +1,15 @@
+[基本信息]
+全名: Daniel Wilson
+性别: Male
+地址: 949 Mathew Mission
+Port Maria, CT 30221
+生日: 2022-11-03
+电话: 5560464934
+昵称: ycastro
+SSN: 066-31-2742
+[付款信息]
+银行卡类型: VISA
+银行卡号: 4867567635430129
+过期时间: 10/2024
+CVV: 770[邮箱]
+临时邮箱: 5171ddc762c28756ac8f85ffe08c85fd@chacuo.com

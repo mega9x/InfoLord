@@ -1,0 +1,14 @@
+[基本信息]
+全名: Anthony Figueroa
+性别: Male
+地址: 88207 Nancy Path
+Lake Danielburgh, TN 48218
+生日: 2011-01-19
+电话: 1676498188
+昵称: jaredjohnson
+SSN: 761-33-4441
+[付款信息]
+银行卡类型: EBT
+银行卡号: 6401578987511513
+过期时间: 08/2025
+CVV: 938

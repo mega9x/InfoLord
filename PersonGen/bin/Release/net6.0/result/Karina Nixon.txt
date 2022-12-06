@@ -1,0 +1,14 @@
+[基本信息]
+全名: Karina Nixon
+性别: Female
+地址: 47560 Matthew Overpass
+South David, WV 12383
+生日: 1926-02-27
+电话: 7423996295
+昵称: shannon42
+SSN: 397-74-6347
+[付款信息]
+银行卡类型: MASTERCARD
+银行卡号: 2569827055475722
+过期时间: 10/2022
+CVV: 593

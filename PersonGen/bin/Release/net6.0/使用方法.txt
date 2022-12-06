@@ -1,0 +1,10 @@
+一定要联网+梯子！
+
+使用前请安装 .net 6 runtime (.net6 运行时)
+在这里安装 https://aka.ms/dotnet-core-applaunch?missing_runtime=true&arch=x64&rid=win10-x64&apphost_version=6.0.10
+直接双击 PersonGen.exe 打开软件就行了
+这个接口有点问题，如果第一次运行失败，多尝试几次
+
+最好一次生成10个
+
+chacuo 网的临时邮箱名字可以改, 生成出来的信息里的临时邮箱就是干这个用的.

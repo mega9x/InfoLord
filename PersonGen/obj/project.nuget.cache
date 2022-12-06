@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "lfhRqFtVblhHIOmNFxOtUnzLlEm5mkSiS2pBPSnFsEGkhrg4X0OU6Z/a3/u8vD9KCxsfZWNSOkY+hm0qzKDo3Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\YK\\RiderProjects\\InfoLord\\PersonGen\\PersonGen.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\YK\\.nuget\\packages\\anglesharp\\0.17.1\\anglesharp.0.17.1.nupkg.sha512",
+    "C:\\Users\\YK\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\YK\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\YK\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\YK\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

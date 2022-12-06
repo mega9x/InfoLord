@@ -1,0 +1,14 @@
+[基本信息]
+全名: Carol Salas
+性别: Female
+地址: 9559 Crystal Shoal
+Freemanberg, RI 85677
+生日: 1965-11-30
+电话: 1305620438
+昵称: grayerika
+SSN: 855-68-5306
+[付款信息]
+银行卡类型: MASTERCARD
+银行卡号: 5506263038139202
+过期时间: 10/2025
+CVV: 165
